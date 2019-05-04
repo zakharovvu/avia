@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/zakharovvu/avia/static/css/main.89954a38.chunk.css",
-    "main.js": "/zakharovvu/avia/static/js/main.d80a15f2.chunk.js",
-    "main.js.map": "/zakharovvu/avia/static/js/main.d80a15f2.chunk.js.map",
-    "runtime~main.js": "/zakharovvu/avia/static/js/runtime~main.44cbcfb3.js",
-    "runtime~main.js.map": "/zakharovvu/avia/static/js/runtime~main.44cbcfb3.js.map",
-    "static/css/2.c7bb94bc.chunk.css": "/zakharovvu/avia/static/css/2.c7bb94bc.chunk.css",
-    "static/js/2.30ffa0c1.chunk.js": "/zakharovvu/avia/static/js/2.30ffa0c1.chunk.js",
-    "static/js/2.30ffa0c1.chunk.js.map": "/zakharovvu/avia/static/js/2.30ffa0c1.chunk.js.map",
-    "index.html": "/zakharovvu/avia/index.html",
-    "precache-manifest.f9af376cace70c7c4dd5d5acac5d3d85.js": "/zakharovvu/avia/precache-manifest.f9af376cace70c7c4dd5d5acac5d3d85.js",
-    "service-worker.js": "/zakharovvu/avia/service-worker.js",
-    "static/css/2.c7bb94bc.chunk.css.map": "/zakharovvu/avia/static/css/2.c7bb94bc.chunk.css.map",
-    "static/css/main.89954a38.chunk.css.map": "/zakharovvu/avia/static/css/main.89954a38.chunk.css.map",
-    "static/media/logo.png": "/zakharovvu/avia/static/media/logo.4629a572.png"
+    "main.css": "/avia/static/css/main.89954a38.chunk.css",
+    "main.js": "/avia/static/js/main.d80a15f2.chunk.js",
+    "main.js.map": "/avia/static/js/main.d80a15f2.chunk.js.map",
+    "runtime~main.js": "/avia/static/js/runtime~main.c9c8095b.js",
+    "runtime~main.js.map": "/avia/static/js/runtime~main.c9c8095b.js.map",
+    "static/css/2.c7bb94bc.chunk.css": "/avia/static/css/2.c7bb94bc.chunk.css",
+    "static/js/2.30ffa0c1.chunk.js": "/avia/static/js/2.30ffa0c1.chunk.js",
+    "static/js/2.30ffa0c1.chunk.js.map": "/avia/static/js/2.30ffa0c1.chunk.js.map",
+    "index.html": "/avia/index.html",
+    "precache-manifest.d7092a259313b1194bebf5293203f4eb.js": "/avia/precache-manifest.d7092a259313b1194bebf5293203f4eb.js",
+    "service-worker.js": "/avia/service-worker.js",
+    "static/css/2.c7bb94bc.chunk.css.map": "/avia/static/css/2.c7bb94bc.chunk.css.map",
+    "static/css/main.89954a38.chunk.css.map": "/avia/static/css/main.89954a38.chunk.css.map",
+    "static/media/logo.png": "/avia/static/media/logo.4629a572.png"
   }
 }
